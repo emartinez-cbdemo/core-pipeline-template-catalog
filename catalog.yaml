@@ -1,4 +1,4 @@
-name: workshopCatalog
-displayName: CloudBees Days Workshop Template Catalog
+name: demoCatalog
+displayName: CloudBees Demo Template Catalog
 version: 1
 type: pipeline-template-catalog
